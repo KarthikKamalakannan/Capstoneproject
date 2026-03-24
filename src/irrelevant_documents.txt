@@ -1,4 +1,0 @@
-2026-03-21 | Personal-cease-and-desist-demand.pdf | confidence: 95% | reason: Explicit C&D language demanding stop of harassment and intimidation tactics
-2026-03-21 | bw_doc_3.pdf | confidence: 100% | reason: Request for document production for compliance audit, no cease or stop language present.
-2026-03-21 | notice_2.pdf | confidence: 80% | reason: Law firm requests suspension of communications, but language is not explicit Cease and Desist
-2026-03-21 | notice_2.pdf | confidence: 80% | reason: Invalid document
